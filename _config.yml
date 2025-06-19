@@ -22,7 +22,7 @@ repository               : "realism1111/realism1111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "realismaa.png"
+  avatar           : "profile.png"
   name             : "Zhuoao Li"
   pronouns         : # example: "she/her"  
   bio              : "I am a novice in scientific research, please give me more guidance"
