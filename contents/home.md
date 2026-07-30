@@ -1,16 +1,34 @@
+I am currently a Ph.D. student in Computer Science and Technology at
+**Northwestern Polytechnical University**.
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+My research interests include **multimodal large language models**,
+**medical image analysis**.
+<!-- I am particularly interested in multimodal representation learning and
+intelligent analysis of medical images. -->
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: [lizha24@mail.nwpu.edu.cn](mailto:lizha24@mail.nwpu.edu.cn)
+&nbsp;·&nbsp;
+[GitHub](https://github.com/realism1111)
+
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+**Northwestern Polytechnical University**  
+Ph.D. Student in Computer Science and Technology  
+Sep. 2024 – Present
+
+**Lanzhou University**  
+B.S. in Computer Science and Technology  
+Sep. 2020 – Jun. 2024
+
+- GPA: 3.95 / 5.00
+- Ranked in the top 10% of the major
+- National Encouragement Scholarship
+- University Scholarships
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+- Multimodal Large Language Models
+- Medical Image Analysis
