@@ -23,7 +23,7 @@ Sep. 2024 – Present
 B.S. in Computer Science and Technology  
 Sep. 2020 – Jun. 2024
 
-- GPA: 3.95 / 5.00
+- GPA: 3.88 / 5.00
 - Ranked in the top 10% of the major
 - National Encouragement Scholarship
 - University Scholarships
